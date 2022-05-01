@@ -1,16 +1,17 @@
-# expenses
+<h1 align="center">
+    Expenses
+</h1>
+<br>
+<p>
+Projeto criado para aprendizagem em flutter, segue a baixo as telas do app
+</p>
 
-A new Flutter project.
+<br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>Telas do App</p>
+<p>Com o app é possivel você controlar suas finançãs, adicionar suas movimentações financeiras e remove-las, e através do grafico você pode ver o que foi gasto durante a semana</p>
+<p align="center">
+    <img alt="Tela 1" src=".github/1.png" width="20%">
+    <img alt="Tela 1" src=".github/2.png" width="20%">
+    <img alt="Tela 1" src=".github/3.png" width="20%">
+</p>
